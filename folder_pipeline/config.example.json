@@ -1,0 +1,7 @@
+{
+  "inbox": "samples/inbox",
+  "out": "samples/out",
+  "quarantine": "samples/quarantine",
+  "db_name": "pipeline.sqlite",
+  "csv_name": "rows.csv"
+}

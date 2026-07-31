@@ -1,0 +1,5 @@
+﻿# note: mixed format dump from client
+vendor: Acme Office Supply invoice: INV-4401 amount: 128.40
+vendor: Acme Office Supply invoice: INV-4401 amount: 128.40
+junk line ignore me
+vendor: Beta Print Co invoice: BP-902 amount: 45

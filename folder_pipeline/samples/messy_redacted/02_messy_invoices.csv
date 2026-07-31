@@ -1,0 +1,7 @@
+﻿vendor,invoice,amount,extra_noise
+Gamma Foods LLC,GF-100,99.99,x
+Gamma Foods LLC,GF-100,99.99,dup
+,,0,bad
+Delta Paper,DP-77,77.25,
+NotARow,xx,not_number,z
+Epsilon Tools,ET-12,12.00,ok

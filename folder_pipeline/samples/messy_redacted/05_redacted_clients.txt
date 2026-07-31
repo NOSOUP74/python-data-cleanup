@@ -1,0 +1,2 @@
+﻿vendor: Redacted Client A invoice: RC-501 amount: 33.33
+vendor: Redacted Client B invoice: RC-502 amount: 66.66
